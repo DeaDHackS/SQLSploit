@@ -25,14 +25,19 @@ Contact me via discord or github issues
 Discord: Ghosty #4028
   
 # Incoming Updates/Features!
-If the tool gets popular and a lot of people want an update i will update the script.
+If the tool gets popular and if people wants an update i will update the script.
 Make it support SQLninja and SQLsus! So if you wanna to make it real, SPREAD THE WORD!
 Go and talk about this tool!
 I worked really hard on this tool! So go ahead! Thanks if you do!
 
 So incoming features in version 1.5.6:
+
 Add SQLninja Tool
+
 Add SQLsus Tool
+
 More anonyming options / User Agent Changer / IP Changer via Third-party scripts.
+
 Info Gathering / Checking DB User / Check If User Is SA(Sql Admin)
+
 And much more!
