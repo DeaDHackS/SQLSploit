@@ -7,7 +7,7 @@ Using this tool is a great way of web injecting a victim for web server takeover
 
 # How-To-Use
 Run after download:
-  $ cd SQLSploit && chmod 777 SQLsploit.s
+  $ cd SQLSploit && chmod 777 SQLsploit.sh
   
 To see help menu:
   $ ./sqlsploit --help
