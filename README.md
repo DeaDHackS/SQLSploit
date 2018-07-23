@@ -36,6 +36,8 @@ Add SQLninja Tool
 
 Add SQLsus Tool
 
+Add Metasploit Framework
+
 More anonyming options / User Agent Changer / IP Changer via Third-party scripts.
 
 Info Gathering / Checking DB User / Check If User Is SA(Sql Admin)
