@@ -38,6 +38,8 @@ Add SQLsus Tool
 
 Add Metasploit Framework
 
+Add SQL Injection Test / Blind Injection Tester (Script made by me!)
+
 WAF/ Web Application Firewall Detection and bypass checking
 
 More anonyming options / User Agent Changer / IP Changer via Third-party scripts.
